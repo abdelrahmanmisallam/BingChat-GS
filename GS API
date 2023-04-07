@@ -1,0 +1,4 @@
+  git clone https://github.com/tuhinpal/bingchat-api.git
+  cd bingchat-api
+  npm run build
+  npm start
